@@ -99,5 +99,4 @@ This project strengthened my ability to:
   - Communicate analytical findings in a structured and meaningful way
 
 **10. Project Access**
-  - Power BI Report: 
-  - PBIX File: 
+  - PBIX File: https://drive.google.com/file/d/1Ya9Wgw3wkfoh494inI8UvmkhUHTxSMLk/view?usp=sharing
