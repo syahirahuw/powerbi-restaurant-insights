@@ -41,6 +41,9 @@ Provides a high-level summary of restaurant performance, including:
 - Geographic distribution by state
 - Most popular cuisine types and price ranges
 
+ #### Dashboard Preview
+![Overview Dashboard](overview.png) 
+
 📌 **Page 2: Customer Satisfaction**
 
 Focuses on customer behaviour and satisfaction drivers:
@@ -48,6 +51,10 @@ Focuses on customer behaviour and satisfaction drivers:
 - Customer demographics and visitor groups
 - Food and service ratings
 - Impact of payment method, parking, and ambience on ratings
+
+ #### Dashboard Preview
+![Customer Satisfaction Dashboard](customer_satisfaction.png) 
+
 
 📌 **Page 3: Operational Insights**
 
@@ -57,6 +64,10 @@ Analyses operational patterns and efficiency:
 - Customer ratings based on operating hours
 - Comparison of operational performance by state
 
+ #### Dashboard Preview
+![Operational Insights Dashboard](operational_insights.png) 
+
+
 📌 **Page 4: Cuisine Performance**
 
 Highlights cuisine-level performance and trends:
@@ -64,6 +75,9 @@ Highlights cuisine-level performance and trends:
 - Top cuisines by number of restaurants
 - Cuisine ratings by state
 - Relationship between cuisine type, pricing, and customer ratings
+
+ #### Dashboard Preview
+![Cuisine Performance Dashboard](cuisine_performance.png) 
 
 **7. Key Insights**
   - Certain cuisine types consistently receive higher average customer ratings, indicating strong customer preference.
