@@ -19,7 +19,7 @@ Restaurant businesses often struggle to identify which cuisines, locations, and 
 **4. Dataset** 
   - Source: ChefMoz & GeoPlaces datasets
   - Data Type: Restaurant details, cuisine types, customer ratings, and geographic information
-  - Purpose: To evaluate restaurant performance and customer preferences across different locations and cuisines
+  - Dataset Link: https://archive.ics.uci.edu/ml/datasets/Restaurant+%26+Consumer+Data
 
 **5. Data Preparation & Modelling**
   - The dataset was prepared and modelled using Power BI to ensure accuracy and usability:
