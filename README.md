@@ -29,23 +29,29 @@
 The Power BI report is organised into three main pages:
 
 📌 Page 1: Overview
-  - Provides a high-level summary of restaurant performance, including:
-  - Total number of restaurants
-  - Average customer rating
-  - Distribution of restaurants by location
-  - Most common cuisine types
+    - Provides a high-level summary of restaurant performance, including:
+    - Total number of restaurants
+    - Average customer rating
+    - Geographic distribution by state
+    - Most popular cuisine types and price ranges
 
 📌 Page 2: Customer Satisfaction
-  - Focuses on customer experience and preferences:
-  - Average ratings by cuisine type
-  - Rating distribution by location
-  - Identification of high- and low-performing restaurants
+    - Focuses on customer behaviour and satisfaction drivers:
+    - Customer demographics and visitor groups
+    - Food and service ratings
+    - Impact of payment method, parking, and ambience on ratings
 
-📌 Page 3: Operational & Cuisine Insights
-  - Highlights operational and strategic insights:
-  - Popular cuisines based on customer ratings
-  - Performance comparison across restaurant types
-  - Areas with potential opportunities for improvement
+📌 Page 3: Operational Insights
+    - Analyses operational patterns and efficiency:
+    - Operating hours and duration
+    - Customer ratings based on operating hours
+    - Comparison of operational performance by state
+
+📌 Page 4: Cuisine Performance
+    - Highlights cuisine-level performance and trends:
+    - Top cuisines by number of restaurants
+    - Cuisine ratings by state
+    - Relationship between cuisine type, pricing, and customer ratings
 
 7. Key Insights
   - Certain cuisine types consistently receive higher average customer ratings, indicating strong customer preference.
