@@ -42,7 +42,7 @@ Provides a high-level summary of restaurant performance, including:
 - Most popular cuisine types and price ranges
 
  #### Dashboard Preview
-![Overview Dashboard](overview.png) 
+![Overview Dashboard](overview_page.jpg) 
 
 📌 **Page 2: Customer Satisfaction**
 
