@@ -42,7 +42,7 @@ Provides a high-level summary of restaurant performance, including:
 - Most popular cuisine types and price ranges
 
  #### Dashboard Preview
-![Overview Dashboard](overview_page.jpg) 
+![Overview Dashboard](overview.jpg) 
 
 📌 **Page 2: Customer Satisfaction**
 
@@ -53,7 +53,7 @@ Focuses on customer behaviour and satisfaction drivers:
 - Impact of payment method, parking, and ambience on ratings
 
  #### Dashboard Preview
-![Customer Satisfaction Dashboard](customer_satisfaction.png) 
+![Customer Satisfaction Dashboard](customer_satisfaction.jpg) 
 
 
 📌 **Page 3: Operational Insights**
@@ -65,7 +65,7 @@ Analyses operational patterns and efficiency:
 - Comparison of operational performance by state
 
  #### Dashboard Preview
-![Operational Insights Dashboard](operational_insights.png) 
+![Operational Insights Dashboard](operational_insights.jpg) 
 
 
 📌 **Page 4: Cuisine Performance**
@@ -77,7 +77,7 @@ Highlights cuisine-level performance and trends:
 - Relationship between cuisine type, pricing, and customer ratings
 
  #### Dashboard Preview
-![Cuisine Performance Dashboard](cuisine_performance.png) 
+![Cuisine Performance Dashboard](cuisine_performance.jpg) 
 
 **7. Key Insights**
   - Certain cuisine types consistently receive higher average customer ratings, indicating strong customer preference.
