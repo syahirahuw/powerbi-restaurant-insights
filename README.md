@@ -1,35 +1,39 @@
-📊 **Restaurant Performance & Customer Insights Dashboard**
+# Restaurant Performance & Customer Insights Dashboard
 
-**Power BI Capstone Project**
+## Power BI Capstone Project
 
-**1. Project Overview**
+### 1. Project Overview
 
 This project focuses on analysing restaurant performance and customer preferences using interactive Power BI dashboards. The goal is to transform raw restaurant and customer rating data into meaningful insights that support data-driven business decisions for restaurant operators and stakeholders.
 
-**2. Business Problem**
+### 2. Business Problem
 
 Restaurant businesses often struggle to identify which cuisines, locations, and restaurant types perform best in terms of customer satisfaction. Without proper analysis, decision-making related to menu planning, location strategy, and operational improvements becomes inefficient.
 
-**3. Project Objectives**
+### 3. Project Objectives
   - Analyse customer ratings and satisfaction levels
   - Identify popular cuisines and high-performing restaurants
   - Explore location-based performance patterns
   - Present insights through a clear and interactive Power BI dashboard
 
-**4. Dataset** 
+### 4. Dataset 
   - Source: ChefMoz & GeoPlaces datasets
   - Data Type: Restaurant details, cuisine types, customer ratings, and geographic information
   - Dataset Link: https://archive.ics.uci.edu/ml/datasets/Restaurant+%26+Consumer+Data
 
-**5. Data Preparation & Modelling**
-  - The dataset was prepared and modelled using Power BI to ensure accuracy and usability:
+### 5. Data Preparation & Modelling
+The dataset was prepared and modelled using Power BI to ensure accuracy and usability:
   - Data cleaning and transformation using Power Query
   - Removal of duplicates and handling missing values
   - Creation of relationships between restaurant, cuisine, and location tables
   - Development of basic calculated measures to support analysis
   - This process ensured reliable data for meaningful visualisation and insights.
+    
+#### Data Model View
+![Data Model](data_model.jpg)
 
-**6. Dashboard Structure**
+
+### 6. Dashboard Structure
 The Power BI report is organised into three main pages:
 
 📌 **Page 1: Overview**
@@ -79,24 +83,24 @@ Highlights cuisine-level performance and trends:
  #### Dashboard Preview
 ![Cuisine Performance Dashboard](cuisine_performance.jpg) 
 
-**7. Key Insights**
+### 7. Key Insights
   - Certain cuisine types consistently receive higher average customer ratings, indicating strong customer preference.
   - Customer satisfaction varies across locations, suggesting that geographic factors may influence restaurant performance.
   - A small group of restaurants outperforms others significantly, highlighting potential best practices.
   - Some cuisines and locations show lower ratings, indicating opportunities for operational or service improvements.
 
-**8. Tools & Skills Demonstrated**
+### 8. Tools & Skills Demonstrated
   - Power BI – dashboard development and interactive visualisation
   - Power Query – data cleaning and transformation
   - Data Modelling – building relationships between multiple datasets
   - Business Analytics – translating data into actionable insights
 
-**9. Outcome & Learning**
+### 9. Outcome & Learning
 This project strengthened my ability to:
 
   - Perform end-to-end data analysis from raw data to insights
   - Design dashboards with a clear business focus
   - Communicate analytical findings in a structured and meaningful way
 
-**10. Project Access**
+### 10. Project Access
   - PBIX File: https://drive.google.com/file/d/1Ya9Wgw3wkfoh494inI8UvmkhUHTxSMLk/view?usp=sharing
