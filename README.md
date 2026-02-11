@@ -30,7 +30,7 @@ The dataset was prepared and modelled using Power BI to ensure accuracy and usab
   - This process ensured reliable data for meaningful visualisation and insights.
     
 #### Data Model View
-![Data Model](data_model.jpg)
+![Data Model](data_model.png)
 
 
 ### 6. Dashboard Structure
