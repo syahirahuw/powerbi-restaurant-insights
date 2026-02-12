@@ -27,7 +27,7 @@ The dataset was prepared and modelled using Power BI to ensure accuracy and usab
   - Removal of duplicates and handling missing values
   - Creation of relationships between restaurant, cuisine, and location tables
   - Development of basic calculated measures to support analysis
-  - This process ensured reliable data for meaningful visualisation and insights.
+  - This process ensured reliable data for meaningful visualisation and insights
     
 #### Data Model View
 ![Data Model](data_model.png)
