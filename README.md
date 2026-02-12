@@ -32,7 +32,7 @@ The dataset was prepared and modelled using Power BI to ensure accuracy and usab
 #### Data Model View
 ![Data Model](data_model.png)
 
-  *The tables were connected using PlaceID and UserID as key fields.* 
+  *Note: The tables were connected using PlaceID and UserID as key fields.* 
   *PlaceID links restaurant, cuisine, and location data, while UserID connects customer profile and rating data.* 
   *This setup allows accurate filtering and analysis across restaurants and customers.*
 
